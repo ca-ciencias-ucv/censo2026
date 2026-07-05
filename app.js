@@ -26,12 +26,39 @@ document.getElementById('searchForm').addEventListener('submit', async function(
 
         const registros = await response.json();
 
-        // Filtrar coincidencias por Cédula (exacta/parcial) O Nombre Completo (parcial)
+        // Función interna para remover tildes/acentos y caracteres diacríticos
+        const normalizarTexto = (texto) => {
+            if (!texto) return '';
+            return texto
+                .toString()
+                .toLowerCase()
+                // Descompone los caracteres acentuados en su letra base + el acento separado
+                .normalize("NFD")
+                // Remueve los caracteres del rango de acentos (bloque Unicode de marcas diacríticas)
+                .replace(/"á"/g, "a")
+                .replace(/"é"/g, "e")
+                .replace(/"í"/g, "i")
+                .replace(/"ó"/g, "o")
+                .replace(/"ú"/g, "u")
+                .replace(/"Á"/g, "A")
+                .replace(/"É"/g, "e")
+                .replace(/"Í"/g, "i")
+                .replace(/"Ó"/g, "o")
+                .replace(/"Ú"/g, "u")
+                .trim();
+        };
+
+        // Normalizamos el término que introdujo el usuario en el buscador
+        const queryNormalizado = normalizarTexto(query);
+
+        // Filtrar coincidencias limpias de acentos y mayúsculas
         const resultados = registros.filter(persona => {
-            const cedula = persona.Cédula ? persona.Cédula.toString().toLowerCase() : '';
-            const nombreCompleto = `${persona.Nombre} ${persona.Apellido}`.toLowerCase();
+            // Unificamos nombre y apellido en una sola cadena limpia
+            const nombreCompleto = normalizarTexto(`${persona.Nombre} ${persona.Apellido}`);
+            const cedula = normalizarTexto(persona.Cédula);
             
-            return cedula.includes(query) || nombreCompleto.includes(query);
+            // Evaluamos la coincidencia parcial sin importar tildes ni mayúsculas
+            return cedula.includes(queryNormalizado) || nombreCompleto.includes(queryNormalizado);
         });
 
         // Limpiar contenedor para re-renderizar como cuadrícula de fichas
