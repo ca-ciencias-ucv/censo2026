@@ -35,16 +35,7 @@ document.getElementById('searchForm').addEventListener('submit', async function(
                 // Descompone los caracteres acentuados en su letra base + el acento separado
                 .normalize("NFD")
                 // Remueve los caracteres del rango de acentos (bloque Unicode de marcas diacríticas)
-                .replace(/"á"/g, "a")
-                .replace(/"é"/g, "e")
-                .replace(/"í"/g, "i")
-                .replace(/"ó"/g, "o")
-                .replace(/"ú"/g, "u")
-                .replace(/"Á"/g, "A")
-                .replace(/"É"/g, "e")
-                .replace(/"Í"/g, "i")
-                .replace(/"Ó"/g, "o")
-                .replace(/"Ú"/g, "u")
+                .replace(/[\u0300-\u036f]/g, "")
                 .trim();
         };
 
@@ -54,7 +45,7 @@ document.getElementById('searchForm').addEventListener('submit', async function(
         // Filtrar coincidencias limpias de acentos y mayúsculas
         const resultados = registros.filter(persona => {
             // Unificamos nombre y apellido en una sola cadena limpia
-            const nombreCompleto = normalizarTexto(`${persona.Nombre} ${persona.Apellido}`);
+            const nombreCompleto = normalizarTexto(`${persona.Nombre_norm} ${persona.Apellido_norm}`);
             const cedula = normalizarTexto(persona.Cédula);
             
             // Evaluamos la coincidencia parcial sin importar tildes ni mayúsculas
