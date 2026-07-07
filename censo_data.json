@@ -20238,5 +20238,495 @@
     "Fecha de respuesta": "6/7/2026 10:12:01",
     "Nombre_norm": "dan francois",
     "Apellido_norm": "peraza bejas"
+  },
+  {
+    "Nombre": "Carlos",
+    "Apellido": "Castillo Ruiz",
+    "Cédula": "16557255",
+    "Relación con la facultad": "Estudiante postgrado, Docente",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "6/7/2026 14:29:49",
+    "Nombre_norm": "carlos",
+    "Apellido_norm": "castillo ruiz"
+  },
+  {
+    "Nombre": "Antonio José",
+    "Apellido": "Indriago Rivero",
+    "Cédula": "24204972",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "IBE",
+    "Fecha de respuesta": "6/7/2026 15:39:07",
+    "Nombre_norm": "antonio jose",
+    "Apellido_norm": "indriago rivero"
+  },
+  {
+    "Nombre": "Luis Alejandro",
+    "Apellido": "Gil Escalona",
+    "Cédula": "31478791",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:46:11",
+    "Nombre_norm": "luis alejandro",
+    "Apellido_norm": "gil escalona"
+  },
+  {
+    "Nombre": "José",
+    "Apellido": "Avilé",
+    "Cédula": "27569176",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:46:23",
+    "Nombre_norm": "jose",
+    "Apellido_norm": "avile"
+  },
+  {
+    "Nombre": "Camilo Enrique",
+    "Apellido": "Parejo Hernández",
+    "Cédula": "28424597",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:46:52",
+    "Nombre_norm": "camilo enrique",
+    "Apellido_norm": "parejo hernandez"
+  },
+  {
+    "Nombre": "Andrea",
+    "Apellido": "Morales Franquis",
+    "Cédula": "32731205",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:47:30",
+    "Nombre_norm": "andrea",
+    "Apellido_norm": "morales franquis"
+  },
+  {
+    "Nombre": "Freimer",
+    "Apellido": "Piñero Aponte",
+    "Cédula": "26224129",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:48:07",
+    "Nombre_norm": "freimer",
+    "Apellido_norm": "pinero aponte"
+  },
+  {
+    "Nombre": "Javier Andrés",
+    "Apellido": "Otero Carrillo",
+    "Cédula": "3157575",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:48:39",
+    "Nombre_norm": "javier andres",
+    "Apellido_norm": "otero carrillo"
+  },
+  {
+    "Nombre": "Mailyn",
+    "Apellido": "González",
+    "Cédula": "32264229",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:48:42",
+    "Nombre_norm": "mailyn",
+    "Apellido_norm": "gonzalez"
+  },
+  {
+    "Nombre": "Neptali",
+    "Apellido": "Ramírez Pulgar",
+    "Cédula": "28081424",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:50:01",
+    "Nombre_norm": "neptali",
+    "Apellido_norm": "ramirez pulgar"
+  },
+  {
+    "Nombre": "Heyner Alexander",
+    "Apellido": "Bolivar Velasco",
+    "Cédula": "32069092",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:50:15",
+    "Nombre_norm": "heyner alexander",
+    "Apellido_norm": "bolivar velasco"
+  },
+  {
+    "Nombre": "Patricia",
+    "Apellido": "Sosa Barrios",
+    "Cédula": "31854785",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:52:02",
+    "Nombre_norm": "patricia",
+    "Apellido_norm": "sosa barrios"
+  },
+  {
+    "Nombre": "Delinyer",
+    "Apellido": "Urbina díaz",
+    "Cédula": "32771233",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:52:32",
+    "Nombre_norm": "delinyer",
+    "Apellido_norm": "urbina diaz"
+  },
+  {
+    "Nombre": "Miguel Eduardo",
+    "Apellido": "Matta Pereira",
+    "Cédula": "21461657",
+    "Relación con la facultad": "Estudiante postgrado, Docente",
+    "Dependencia de adscripción": "IZET",
+    "Fecha de respuesta": "6/7/2026 15:54:38",
+    "Nombre_norm": "miguel eduardo",
+    "Apellido_norm": "matta pereira"
+  },
+  {
+    "Nombre": "Camila",
+    "Apellido": "Paoletti Morales",
+    "Cédula": "31045884",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 15:57:43",
+    "Nombre_norm": "camila",
+    "Apellido_norm": "paoletti morales"
+  },
+  {
+    "Nombre": "Franyelith",
+    "Apellido": "Rodriguez",
+    "Cédula": "27006714",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 16:00:04",
+    "Nombre_norm": "franyelith",
+    "Apellido_norm": "rodriguez"
+  },
+  {
+    "Nombre": "Edgar José",
+    "Apellido": "Bonilla Ávila",
+    "Cédula": "30259482",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 16:03:20",
+    "Nombre_norm": "edgar jose",
+    "Apellido_norm": "bonilla avila"
+  },
+  {
+    "Nombre": "Arturo",
+    "Apellido": "Millán Maiz",
+    "Cédula": "30429011",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "6/7/2026 16:05:52",
+    "Nombre_norm": "arturo",
+    "Apellido_norm": "millan maiz"
+  },
+  {
+    "Nombre": "Alejandra",
+    "Apellido": "Romero Anato",
+    "Cédula": "31936333",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "6/7/2026 16:19:14",
+    "Nombre_norm": "alejandra",
+    "Apellido_norm": "romero anato"
+  },
+  {
+    "Nombre": "Saree Daniela",
+    "Apellido": "Bittar Fernández",
+    "Cédula": "30403642",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 16:23:12",
+    "Nombre_norm": "saree daniela",
+    "Apellido_norm": "bittar fernandez"
+  },
+  {
+    "Nombre": "Liliam",
+    "Apellido": "Rojas Toro",
+    "Cédula": "25409156",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 16:23:57",
+    "Nombre_norm": "liliam",
+    "Apellido_norm": "rojas toro"
+  },
+  {
+    "Nombre": "Gabriel Antonio",
+    "Apellido": "Lías Díaz",
+    "Cédula": "24804344",
+    "Relación con la facultad": "Estudiante postgrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 16:27:09",
+    "Nombre_norm": "gabriel antonio",
+    "Apellido_norm": "lias diaz"
+  },
+  {
+    "Nombre": "María",
+    "Apellido": "Miranda",
+    "Cédula": "30243278",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "6/7/2026 16:46:33",
+    "Nombre_norm": "maria",
+    "Apellido_norm": "miranda"
+  },
+  {
+    "Nombre": "Saul Alejandro",
+    "Apellido": "Ugueto Dick",
+    "Cédula": "26822873",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "6/7/2026 16:47:04",
+    "Nombre_norm": "saul alejandro",
+    "Apellido_norm": "ugueto dick"
+  },
+  {
+    "Nombre": "Santiago",
+    "Apellido": "León Correa",
+    "Cédula": "30030494",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 16:47:48",
+    "Nombre_norm": "santiago",
+    "Apellido_norm": "leon correa"
+  },
+  {
+    "Nombre": "Cleibert",
+    "Apellido": "Barrios",
+    "Cédula": "31912912",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 16:58:38",
+    "Nombre_norm": "cleibert",
+    "Apellido_norm": "barrios"
+  },
+  {
+    "Nombre": "Angel",
+    "Apellido": "Hernandez morales",
+    "Cédula": "31626381",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 17:38:43",
+    "Nombre_norm": "angel",
+    "Apellido_norm": "hernandez morales"
+  },
+  {
+    "Nombre": "Enmanuel",
+    "Apellido": "Rondón infante",
+    "Cédula": "31873404",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 18:09:50",
+    "Nombre_norm": "enmanuel",
+    "Apellido_norm": "rondon infante"
+  },
+  {
+    "Nombre": "María Alejandra",
+    "Apellido": "Rodríguez",
+    "Cédula": "28306350",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 18:19:55",
+    "Nombre_norm": "maria alejandra",
+    "Apellido_norm": "rodriguez"
+  },
+  {
+    "Nombre": "Edyelson Jesus",
+    "Apellido": "Colina de",
+    "Cédula": "32829984",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 18:20:06",
+    "Nombre_norm": "edyelson jesus",
+    "Apellido_norm": "colina de"
+  },
+  {
+    "Nombre": "Sophia",
+    "Apellido": "Delgadillo",
+    "Cédula": "30667062",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 18:23:05",
+    "Nombre_norm": "sophia",
+    "Apellido_norm": "delgadillo"
+  },
+  {
+    "Nombre": "Joseph Raúl",
+    "Apellido": "Lobos Laya",
+    "Cédula": "28302935",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "6/7/2026 18:24:08",
+    "Nombre_norm": "joseph raul",
+    "Apellido_norm": "lobos laya"
+  },
+  {
+    "Nombre": "Claudia",
+    "Apellido": "Méndez De León",
+    "Cédula": "20589667",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 18:36:31",
+    "Nombre_norm": "claudia",
+    "Apellido_norm": "mendez de leon"
+  },
+  {
+    "Nombre": "Abril Cristina",
+    "Apellido": "Díaz Díaz",
+    "Cédula": "29553535",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 18:37:31",
+    "Nombre_norm": "abril cristina",
+    "Apellido_norm": "diaz diaz"
+  },
+  {
+    "Nombre": "Amada Martha",
+    "Apellido": "Gomez Diaz",
+    "Cédula": "32258773",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 18:52:31",
+    "Nombre_norm": "amada martha",
+    "Apellido_norm": "gomez diaz"
+  },
+  {
+    "Nombre": "Axhael",
+    "Apellido": "Marin",
+    "Cédula": "32291472",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "6/7/2026 18:57:10",
+    "Nombre_norm": "axhael",
+    "Apellido_norm": "marin"
+  },
+  {
+    "Nombre": "Mayerling",
+    "Apellido": "Rosal",
+    "Cédula": "31902374",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 19:26:57",
+    "Nombre_norm": "mayerling",
+    "Apellido_norm": "rosal"
+  },
+  {
+    "Nombre": "Gabriela",
+    "Apellido": "Díaz Camacho",
+    "Cédula": "32812347",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 19:49:29",
+    "Nombre_norm": "gabriela",
+    "Apellido_norm": "diaz camacho"
+  },
+  {
+    "Nombre": "Emmanuel David",
+    "Apellido": "Navarro Vera",
+    "Cédula": "30848783",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "6/7/2026 19:53:14",
+    "Nombre_norm": "emmanuel david",
+    "Apellido_norm": "navarro vera"
+  },
+  {
+    "Nombre": "Jayree Alejandra",
+    "Apellido": "Rosendo León",
+    "Cédula": "30288079",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 20:29:07",
+    "Nombre_norm": "jayree alejandra",
+    "Apellido_norm": "rosendo leon"
+  },
+  {
+    "Nombre": "Gabriela",
+    "Apellido": "De Abreu Sneshko",
+    "Cédula": "28136352",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 20:43:13",
+    "Nombre_norm": "gabriela",
+    "Apellido_norm": "de abreu sneshko"
+  },
+  {
+    "Nombre": "Alejandro",
+    "Apellido": "Tulli",
+    "Cédula": "29887467",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 20:47:34",
+    "Nombre_norm": "alejandro",
+    "Apellido_norm": "tulli"
+  },
+  {
+    "Nombre": "Corina",
+    "Apellido": "Tovar",
+    "Cédula": "29514187",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 21:02:31",
+    "Nombre_norm": "corina",
+    "Apellido_norm": "tovar"
+  },
+  {
+    "Nombre": "Evony",
+    "Apellido": "Villegas Monasterio",
+    "Cédula": "31626553",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "6/7/2026 21:27:14",
+    "Nombre_norm": "evony",
+    "Apellido_norm": "villegas monasterio"
+  },
+  {
+    "Nombre": "Mauricio Ezequel",
+    "Apellido": "González Márquez",
+    "Cédula": "30722334",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "6/7/2026 21:56:19",
+    "Nombre_norm": "mauricio ezequel",
+    "Apellido_norm": "gonzalez marquez"
+  },
+  {
+    "Nombre": "Diego",
+    "Apellido": "Gutiérrez",
+    "Cédula": "31947359",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "6/7/2026 21:59:44",
+    "Nombre_norm": "diego",
+    "Apellido_norm": "gutierrez"
+  },
+  {
+    "Nombre": "Daniel",
+    "Apellido": "Hernández",
+    "Cédula": "27795163",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "6/7/2026 22:34:17",
+    "Nombre_norm": "daniel",
+    "Apellido_norm": "hernandez"
+  },
+  {
+    "Nombre": "Fernando",
+    "Apellido": "González",
+    "Cédula": "3663730",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "IBE",
+    "Fecha de respuesta": "6/7/2026 22:43:10",
+    "Nombre_norm": "fernando",
+    "Apellido_norm": "gonzalez"
+  },
+  {
+    "Nombre": "Robert Andres",
+    "Apellido": "Molina Ojeda",
+    "Cédula": "15314001",
+    "Relación con la facultad": "Personal obrero",
+    "Dependencia de adscripción": "ICTA",
+    "Fecha de respuesta": "7/7/2026 4:57:59",
+    "Nombre_norm": "robert andres",
+    "Apellido_norm": "molina ojeda"
   }
 ]
