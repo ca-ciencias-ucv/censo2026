@@ -20728,5 +20728,505 @@
     "Fecha de respuesta": "7/7/2026 4:57:59",
     "Nombre_norm": "robert andres",
     "Apellido_norm": "molina ojeda"
+  },
+  {
+    "Nombre": "Broderick",
+    "Apellido": "Aquino",
+    "Cédula": "18184105",
+    "Relación con la facultad": "Personal obrero",
+    "Dependencia de adscripción": "IBE",
+    "Fecha de respuesta": "7/7/2026 9:54:56",
+    "Nombre_norm": "broderick",
+    "Apellido_norm": "aquino"
+  },
+  {
+    "Nombre": "Romel",
+    "Apellido": "GUZMAN",
+    "Cédula": "15077336",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Decanato/Coordinaciones",
+    "Fecha de respuesta": "7/7/2026 10:02:24",
+    "Nombre_norm": "romel",
+    "Apellido_norm": "guzman"
+  },
+  {
+    "Nombre": "Elizabeth",
+    "Apellido": "Merentes",
+    "Cédula": "3565514",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "IBE",
+    "Fecha de respuesta": "7/7/2026 10:27:40",
+    "Nombre_norm": "elizabeth",
+    "Apellido_norm": "merentes"
+  },
+  {
+    "Nombre": "María Carolina",
+    "Apellido": "Pérez Gordones",
+    "Cédula": "12716893",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "IBE",
+    "Fecha de respuesta": "7/7/2026 10:30:55",
+    "Nombre_norm": "maria carolina",
+    "Apellido_norm": "perez gordones"
+  },
+  {
+    "Nombre": "Clarimar",
+    "Apellido": "Camacho",
+    "Cédula": "16952152",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 10:37:47",
+    "Nombre_norm": "clarimar",
+    "Apellido_norm": "camacho"
+  },
+  {
+    "Nombre": "Soraya",
+    "Apellido": "Taboada",
+    "Cédula": "5532190",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 10:39:28",
+    "Nombre_norm": "soraya",
+    "Apellido_norm": "taboada"
+  },
+  {
+    "Nombre": "Gustavo",
+    "Apellido": "Cabrera Barrios",
+    "Cédula": "6525749",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 10:54:01",
+    "Nombre_norm": "gustavo",
+    "Apellido_norm": "cabrera barrios"
+  },
+  {
+    "Nombre": "Francisco",
+    "Apellido": "Armas",
+    "Cédula": "19685502",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 10:54:49",
+    "Nombre_norm": "francisco",
+    "Apellido_norm": "armas"
+  },
+  {
+    "Nombre": "Yosdali Marbella",
+    "Apellido": "Castillo coronil",
+    "Cédula": "17719891",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "7/7/2026 11:01:18",
+    "Nombre_norm": "yosdali marbella",
+    "Apellido_norm": "castillo coronil"
+  },
+  {
+    "Nombre": "Paulino",
+    "Apellido": "Betancourt",
+    "Cédula": "6508770",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:01:21",
+    "Nombre_norm": "paulino",
+    "Apellido_norm": "betancourt"
+  },
+  {
+    "Nombre": "María Antonieta",
+    "Apellido": "Ranaudo de Garcia",
+    "Cédula": "6211661",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:10:05",
+    "Nombre_norm": "maria antonieta",
+    "Apellido_norm": "ranaudo de garcia"
+  },
+  {
+    "Nombre": "Leomari",
+    "Apellido": "Viña",
+    "Cédula": "30246485",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "7/7/2026 11:10:21",
+    "Nombre_norm": "leomari",
+    "Apellido_norm": "vina"
+  },
+  {
+    "Nombre": "Francisco",
+    "Apellido": "Garcia Esteban",
+    "Cédula": "5607932",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:11:21",
+    "Nombre_norm": "francisco",
+    "Apellido_norm": "garcia esteban"
+  },
+  {
+    "Nombre": "Eilynmar",
+    "Apellido": "Gavidia",
+    "Cédula": "30457096",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "7/7/2026 11:12:06",
+    "Nombre_norm": "eilynmar",
+    "Apellido_norm": "gavidia"
+  },
+  {
+    "Nombre": "Carlos",
+    "Apellido": "Eduardo Marchán",
+    "Cédula": "17425686",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:12:09",
+    "Nombre_norm": "carlos",
+    "Apellido_norm": "eduardo marchan"
+  },
+  {
+    "Nombre": "Daniel Alejandro",
+    "Apellido": "Rangel Alvarez",
+    "Cédula": "32045305",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "7/7/2026 11:13:09",
+    "Nombre_norm": "daniel alejandro",
+    "Apellido_norm": "rangel alvarez"
+  },
+  {
+    "Nombre": "Alexandra",
+    "Apellido": "Quintana",
+    "Cédula": "32320238",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:15:56",
+    "Nombre_norm": "alexandra",
+    "Apellido_norm": "quintana"
+  },
+  {
+    "Nombre": "Luis Eduardo",
+    "Apellido": "Quintero Camelo",
+    "Cédula": "32430524",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:16:32",
+    "Nombre_norm": "luis eduardo",
+    "Apellido_norm": "quintero camelo"
+  },
+  {
+    "Nombre": "Ivana",
+    "Apellido": "Martínez",
+    "Cédula": "32111981",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:19:22",
+    "Nombre_norm": "ivana",
+    "Apellido_norm": "martinez"
+  },
+  {
+    "Nombre": "Joseph Abraham",
+    "Apellido": "Martínez López",
+    "Cédula": "30476438",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:19:23",
+    "Nombre_norm": "joseph abraham",
+    "Apellido_norm": "martinez lopez"
+  },
+  {
+    "Nombre": "Ricardo",
+    "Apellido": "Villamizar Romero",
+    "Cédula": "32291381",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "7/7/2026 11:21:49",
+    "Nombre_norm": "ricardo",
+    "Apellido_norm": "villamizar romero"
+  },
+  {
+    "Nombre": "Bianca",
+    "Apellido": "Bastardo",
+    "Cédula": "32377466",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:24:33",
+    "Nombre_norm": "bianca",
+    "Apellido_norm": "bastardo"
+  },
+  {
+    "Nombre": "Yoskar",
+    "Apellido": "Villanueva",
+    "Cédula": "33171136",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:26:24",
+    "Nombre_norm": "yoskar",
+    "Apellido_norm": "villanueva"
+  },
+  {
+    "Nombre": "Sofia",
+    "Apellido": "Marini",
+    "Cédula": "33498361",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:27:23",
+    "Nombre_norm": "sofia",
+    "Apellido_norm": "marini"
+  },
+  {
+    "Nombre": "yolyan",
+    "Apellido": "pantoja Yépez",
+    "Cédula": "15604144",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:30:43",
+    "Nombre_norm": "yolyan",
+    "Apellido_norm": "pantoja yepez"
+  },
+  {
+    "Nombre": "Laura María",
+    "Apellido": "Delgado Petrocelli",
+    "Cédula": "4283566",
+    "Relación con la facultad": "Docente investigador",
+    "Dependencia de adscripción": "IZET",
+    "Fecha de respuesta": "7/7/2026 11:31:57",
+    "Nombre_norm": "laura maria",
+    "Apellido_norm": "delgado petrocelli"
+  },
+  {
+    "Nombre": "Alejandro",
+    "Apellido": "Lugo",
+    "Cédula": "32112895",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 11:38:49",
+    "Nombre_norm": "alejandro",
+    "Apellido_norm": "lugo"
+  },
+  {
+    "Nombre": "Juan Javier",
+    "Apellido": "Sarell Galarraga",
+    "Cédula": "11673577",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "7/7/2026 11:40:28",
+    "Nombre_norm": "juan javier",
+    "Apellido_norm": "sarell galarraga"
+  },
+  {
+    "Nombre": "Susej Nazareth",
+    "Apellido": "Mejías Chavez",
+    "Cédula": "32011187",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "7/7/2026 12:10:41",
+    "Nombre_norm": "susej nazareth",
+    "Apellido_norm": "mejias chavez"
+  },
+  {
+    "Nombre": "Gabriel",
+    "Apellido": "Brito",
+    "Cédula": "31540029",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "7/7/2026 12:15:55",
+    "Nombre_norm": "gabriel",
+    "Apellido_norm": "brito"
+  },
+  {
+    "Nombre": "Sara",
+    "Apellido": "Henriquez Espinoza",
+    "Cédula": "32348394",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "7/7/2026 13:01:03",
+    "Nombre_norm": "sara",
+    "Apellido_norm": "henriquez espinoza"
+  },
+  {
+    "Nombre": "Ambar Andreina",
+    "Apellido": "Gonzalez Contreras",
+    "Cédula": "21551354",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 13:07:21",
+    "Nombre_norm": "ambar andreina",
+    "Apellido_norm": "gonzalez contreras"
+  },
+  {
+    "Nombre": "Yoskar",
+    "Apellido": "Villanueva",
+    "Cédula": "33171136",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 13:09:07",
+    "Nombre_norm": "yoskar",
+    "Apellido_norm": "villanueva"
+  },
+  {
+    "Nombre": "Palmira",
+    "Apellido": "Guevara Trejo",
+    "Cédula": "4387343",
+    "Relación con la facultad": "Docente investigadora jubilada",
+    "Dependencia de adscripción": "IBE",
+    "Fecha de respuesta": "7/7/2026 14:14:53",
+    "Nombre_norm": "palmira",
+    "Apellido_norm": "guevara trejo"
+  },
+  {
+    "Nombre": "Sofía",
+    "Apellido": "Fuentes Vargas",
+    "Cédula": "32624223",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 14:18:39",
+    "Nombre_norm": "sofia",
+    "Apellido_norm": "fuentes vargas"
+  },
+  {
+    "Nombre": "Soraya",
+    "Apellido": "Taboada",
+    "Cédula": "5532190",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 14:22:45",
+    "Nombre_norm": "soraya",
+    "Apellido_norm": "taboada"
+  },
+  {
+    "Nombre": "laura",
+    "Apellido": "garces",
+    "Cédula": "14388010",
+    "Relación con la facultad": "Personal administrativo",
+    "Dependencia de adscripción": "Decanato/Coordinaciones",
+    "Fecha de respuesta": "7/7/2026 16:03:05",
+    "Nombre_norm": "laura",
+    "Apellido_norm": "garces"
+  },
+  {
+    "Nombre": "Rafael",
+    "Apellido": "Tovar",
+    "Cédula": "7991869",
+    "Relación con la facultad": "Personal administrativo",
+    "Dependencia de adscripción": "Decanato/Coordinaciones",
+    "Fecha de respuesta": "7/7/2026 16:06:50",
+    "Nombre_norm": "rafael",
+    "Apellido_norm": "tovar"
+  },
+  {
+    "Nombre": "Joxmer",
+    "Apellido": "Scott Frías",
+    "Cédula": "16179974",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "IZET",
+    "Fecha de respuesta": "7/7/2026 17:32:53",
+    "Nombre_norm": "joxmer",
+    "Apellido_norm": "scott frias"
+  },
+  {
+    "Nombre": "Luisa",
+    "Apellido": "Villalba Márquez",
+    "Cédula": "6229079",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "IZET",
+    "Fecha de respuesta": "7/7/2026 18:07:55",
+    "Nombre_norm": "luisa",
+    "Apellido_norm": "villalba marquez"
+  },
+  {
+    "Nombre": "Alejandro",
+    "Apellido": "Mayo Ruiz",
+    "Cédula": "32299102",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "7/7/2026 18:10:16",
+    "Nombre_norm": "alejandro",
+    "Apellido_norm": "mayo ruiz"
+  },
+  {
+    "Nombre": "María",
+    "Apellido": "Fermín Urbaneja",
+    "Cédula": "33154896",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "7/7/2026 19:08:41",
+    "Nombre_norm": "maria",
+    "Apellido_norm": "fermin urbaneja"
+  },
+  {
+    "Nombre": "Floriana Nohemí",
+    "Apellido": "Pineda Rodríguez",
+    "Cédula": "34047918",
+    "Relación con la facultad": "Estudiante postgrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "7/7/2026 20:23:19",
+    "Nombre_norm": "floriana nohemi",
+    "Apellido_norm": "pineda rodriguez"
+  },
+  {
+    "Nombre": "Luis Miguel",
+    "Apellido": "Montilla Méndez",
+    "Cédula": "31728201",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "7/7/2026 21:44:09",
+    "Nombre_norm": "luis miguel",
+    "Apellido_norm": "montilla mendez"
+  },
+  {
+    "Nombre": "Humberto",
+    "Apellido": "Ramos Alayón",
+    "Cédula": "20211842",
+    "Relación con la facultad": "Estudiante postgrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "8/7/2026 8:10:58",
+    "Nombre_norm": "humberto",
+    "Apellido_norm": "ramos alayon"
+  },
+  {
+    "Nombre": "Unai Joseba",
+    "Apellido": "Emaldi Pimentel",
+    "Cédula": "5432749",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "ICTA",
+    "Fecha de respuesta": "8/7/2026 9:55:34",
+    "Nombre_norm": "unai joseba",
+    "Apellido_norm": "emaldi pimentel"
+  },
+  {
+    "Nombre": "Alejandra Del Valle",
+    "Apellido": "Machin Carrasco",
+    "Cédula": "32273331",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 10:16:52",
+    "Nombre_norm": "alejandra del valle",
+    "Apellido_norm": "machin carrasco"
+  },
+  {
+    "Nombre": "Jorge",
+    "Apellido": "Biarreta",
+    "Cédula": "30170500",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 10:33:42",
+    "Nombre_norm": "jorge",
+    "Apellido_norm": "biarreta"
+  },
+  {
+    "Nombre": "Andrés Gabriel",
+    "Apellido": "Mora Romero",
+    "Cédula": "33155721",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 10:35:18",
+    "Nombre_norm": "andres gabriel",
+    "Apellido_norm": "mora romero"
+  },
+  {
+    "Nombre": "Genesia",
+    "Apellido": "Alicandro Ramirez",
+    "Cédula": "30284001",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "8/7/2026 10:39:28",
+    "Nombre_norm": "genesia",
+    "Apellido_norm": "alicandro ramirez"
   }
 ]
