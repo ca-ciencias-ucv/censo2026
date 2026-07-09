@@ -21228,5 +21228,395 @@
     "Fecha de respuesta": "8/7/2026 10:39:28",
     "Nombre_norm": "genesia",
     "Apellido_norm": "alicandro ramirez"
+  },
+  {
+    "Nombre": "Marvin Alberto",
+    "Apellido": "González Padilla",
+    "Cédula": "19398346",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 10:52:55",
+    "Nombre_norm": "marvin alberto",
+    "Apellido_norm": "gonzalez padilla"
+  },
+  {
+    "Nombre": "Dilan Aaron",
+    "Apellido": "Uzcátegui Sabino",
+    "Cédula": "29756430",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 10:55:18",
+    "Nombre_norm": "dilan aaron",
+    "Apellido_norm": "uzcategui sabino"
+  },
+  {
+    "Nombre": "Freddy",
+    "Apellido": "Angulo",
+    "Cédula": "6481281",
+    "Relación con la facultad": "Estudiante postgrado, Docente",
+    "Dependencia de adscripción": "Escuela de Química",
+    "Fecha de respuesta": "8/7/2026 10:56:13",
+    "Nombre_norm": "freddy",
+    "Apellido_norm": "angulo"
+  },
+  {
+    "Nombre": "Jorge Luis",
+    "Apellido": "Chirinos Méndez",
+    "Cédula": "27309262",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 10:59:50",
+    "Nombre_norm": "jorge luis",
+    "Apellido_norm": "chirinos mendez"
+  },
+  {
+    "Nombre": "Nicole Sarahy",
+    "Apellido": "Rodríguez Sucre",
+    "Cédula": "27805381",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 11:01:51",
+    "Nombre_norm": "nicole sarahy",
+    "Apellido_norm": "rodriguez sucre"
+  },
+  {
+    "Nombre": "Daniela",
+    "Apellido": "Torrealba",
+    "Cédula": "18031914",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 11:16:56",
+    "Nombre_norm": "daniela",
+    "Apellido_norm": "torrealba"
+  },
+  {
+    "Nombre": "Walter",
+    "Apellido": "Beyer",
+    "Cédula": "2524234",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 11:48:59",
+    "Nombre_norm": "walter",
+    "Apellido_norm": "beyer"
+  },
+  {
+    "Nombre": "Adelba Alejandra",
+    "Apellido": "Martínez Hernández",
+    "Cédula": "14122895",
+    "Relación con la facultad": "Personal administrativo",
+    "Dependencia de adscripción": "Decanato/Coordinaciones",
+    "Fecha de respuesta": "8/7/2026 12:10:00",
+    "Nombre_norm": "adelba alejandra",
+    "Apellido_norm": "martinez hernandez"
+  },
+  {
+    "Nombre": "Israel",
+    "Apellido": "Maestre",
+    "Cédula": "32490684",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 13:27:17",
+    "Nombre_norm": "israel",
+    "Apellido_norm": "maestre"
+  },
+  {
+    "Nombre": "Fabrizio",
+    "Apellido": "Falco",
+    "Cédula": "32695403",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 13:27:20",
+    "Nombre_norm": "fabrizio",
+    "Apellido_norm": "falco"
+  },
+  {
+    "Nombre": "Greymar",
+    "Apellido": "Indriago",
+    "Cédula": "23707811",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 13:27:43",
+    "Nombre_norm": "greymar",
+    "Apellido_norm": "indriago"
+  },
+  {
+    "Nombre": "Aaron Gabriel",
+    "Apellido": "González Dudamel",
+    "Cédula": "33066498",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 13:27:56",
+    "Nombre_norm": "aaron gabriel",
+    "Apellido_norm": "gonzalez dudamel"
+  },
+  {
+    "Nombre": "Andres Alejandro",
+    "Apellido": "Morantes Romero",
+    "Cédula": "32001407",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 13:28:31",
+    "Nombre_norm": "andres alejandro",
+    "Apellido_norm": "morantes romero"
+  },
+  {
+    "Nombre": "Ruben Alejandro",
+    "Apellido": "Arellano Platt",
+    "Cédula": "25013370",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 13:29:11",
+    "Nombre_norm": "ruben alejandro",
+    "Apellido_norm": "arellano platt"
+  },
+  {
+    "Nombre": "Reike Samuel",
+    "Apellido": "Aquino Herrera",
+    "Cédula": "31329272",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 13:29:39",
+    "Nombre_norm": "reike samuel",
+    "Apellido_norm": "aquino herrera"
+  },
+  {
+    "Nombre": "Luis Fernando",
+    "Apellido": "Rangel Hernandez",
+    "Cédula": "29992828",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 13:29:48",
+    "Nombre_norm": "luis fernando",
+    "Apellido_norm": "rangel hernandez"
+  },
+  {
+    "Nombre": "Luis Fernando",
+    "Apellido": "Rojas Ramírez",
+    "Cédula": "31033135",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 13:34:44",
+    "Nombre_norm": "luis fernando",
+    "Apellido_norm": "rojas ramirez"
+  },
+  {
+    "Nombre": "Gabriel",
+    "Apellido": "Reyes Rivero",
+    "Cédula": "33326826",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "8/7/2026 13:38:01",
+    "Nombre_norm": "gabriel",
+    "Apellido_norm": "reyes rivero"
+  },
+  {
+    "Nombre": "Nicole Sarahy",
+    "Apellido": "Rodriguez Sucre",
+    "Cédula": "27805381",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 13:47:01",
+    "Nombre_norm": "nicole sarahy",
+    "Apellido_norm": "rodriguez sucre"
+  },
+  {
+    "Nombre": "Azgad",
+    "Apellido": "Bou",
+    "Cédula": "28126541",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 14:07:50",
+    "Nombre_norm": "azgad",
+    "Apellido_norm": "bou"
+  },
+  {
+    "Nombre": "simon eduardo",
+    "Apellido": "uzcategui sabino",
+    "Cédula": "26868341",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "8/7/2026 14:09:15",
+    "Nombre_norm": "simon eduardo",
+    "Apellido_norm": "uzcategui sabino"
+  },
+  {
+    "Nombre": "Mario José",
+    "Apellido": "Zambrano Jhonson",
+    "Cédula": "16813386",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 14:14:27",
+    "Nombre_norm": "mario jose",
+    "Apellido_norm": "zambrano jhonson"
+  },
+  {
+    "Nombre": "Mariangélica",
+    "Apellido": "García Giuseppi",
+    "Cédula": "32857247",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 14:27:24",
+    "Nombre_norm": "mariangelica",
+    "Apellido_norm": "garcia giuseppi"
+  },
+  {
+    "Nombre": "Gaby Francheska",
+    "Apellido": "Osorio Aviles",
+    "Cédula": "33593704",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "8/7/2026 14:33:36",
+    "Nombre_norm": "gaby francheska",
+    "Apellido_norm": "osorio aviles"
+  },
+  {
+    "Nombre": "Nelson José Gregorio",
+    "Apellido": "Navarro Perez",
+    "Cédula": "29832957",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 14:51:55",
+    "Nombre_norm": "nelson jose gregorio",
+    "Apellido_norm": "navarro perez"
+  },
+  {
+    "Nombre": "Edwisson",
+    "Apellido": "Rizzo lara",
+    "Cédula": "30397465",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 14:53:18",
+    "Nombre_norm": "edwisson",
+    "Apellido_norm": "rizzo lara"
+  },
+  {
+    "Nombre": "Dilan",
+    "Apellido": "Uzcategui Sabino",
+    "Cédula": "29756430",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 15:00:28",
+    "Nombre_norm": "dilan",
+    "Apellido_norm": "uzcategui sabino"
+  },
+  {
+    "Nombre": "Anyeli",
+    "Apellido": "Guevara Seijas",
+    "Cédula": "26989462",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 15:07:50",
+    "Nombre_norm": "anyeli",
+    "Apellido_norm": "guevara seijas"
+  },
+  {
+    "Nombre": "Victor",
+    "Apellido": "Rivero Palacios",
+    "Cédula": "32299711",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 15:08:19",
+    "Nombre_norm": "victor",
+    "Apellido_norm": "rivero palacios"
+  },
+  {
+    "Nombre": "David Alejandro",
+    "Apellido": "Sureda Martínez",
+    "Cédula": "28461092",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 16:07:44",
+    "Nombre_norm": "david alejandro",
+    "Apellido_norm": "sureda martinez"
+  },
+  {
+    "Nombre": "Gerald Jesús",
+    "Apellido": "Castro Bejarano",
+    "Cédula": "28312117",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 17:13:36",
+    "Nombre_norm": "gerald jesus",
+    "Apellido_norm": "castro bejarano"
+  },
+  {
+    "Nombre": "Victor",
+    "Apellido": "Rubio Ramírez",
+    "Cédula": "30157853",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 17:39:33",
+    "Nombre_norm": "victor",
+    "Apellido_norm": "rubio ramirez"
+  },
+  {
+    "Nombre": "Manuel",
+    "Apellido": "Heredia Rodríguez",
+    "Cédula": "30970173",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 17:44:48",
+    "Nombre_norm": "manuel",
+    "Apellido_norm": "heredia rodriguez"
+  },
+  {
+    "Nombre": "Oswaldo",
+    "Apellido": "Villafranca Mata",
+    "Cédula": "31101321",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 18:41:10",
+    "Nombre_norm": "oswaldo",
+    "Apellido_norm": "villafranca mata"
+  },
+  {
+    "Nombre": "David Alejandro",
+    "Apellido": "Cabrera Brito",
+    "Cédula": "31703107",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 19:27:57",
+    "Nombre_norm": "david alejandro",
+    "Apellido_norm": "cabrera brito"
+  },
+  {
+    "Nombre": "Victor",
+    "Apellido": "Gómez",
+    "Cédula": "31866662",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 19:46:44",
+    "Nombre_norm": "victor",
+    "Apellido_norm": "gomez"
+  },
+  {
+    "Nombre": "Angel",
+    "Apellido": "Pérez Figueira",
+    "Cédula": "30309585",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 20:51:54",
+    "Nombre_norm": "angel",
+    "Apellido_norm": "perez figueira"
+  },
+  {
+    "Nombre": "Diego Antonio",
+    "Apellido": "Bertomolde Medina",
+    "Cédula": "30580019",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "8/7/2026 21:08:01",
+    "Nombre_norm": "diego antonio",
+    "Apellido_norm": "bertomolde medina"
+  },
+  {
+    "Nombre": "Pedro Arturo",
+    "Apellido": "Moreno Balza",
+    "Cédula": "4062142",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "9/7/2026 5:09:30",
+    "Nombre_norm": "pedro arturo",
+    "Apellido_norm": "moreno balza"
   }
 ]
