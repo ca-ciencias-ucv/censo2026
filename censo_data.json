@@ -21618,5 +21618,135 @@
     "Fecha de respuesta": "9/7/2026 5:09:30",
     "Nombre_norm": "pedro arturo",
     "Apellido_norm": "moreno balza"
+  },
+  {
+    "Nombre": "Alexis",
+    "Apellido": "León",
+    "Cédula": "30085111",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "9/7/2026 9:13:36",
+    "Nombre_norm": "alexis",
+    "Apellido_norm": "leon"
+  },
+  {
+    "Nombre": "Ricardo Elí",
+    "Apellido": "Méndez Osorio",
+    "Cédula": "31297982",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "9/7/2026 10:46:31",
+    "Nombre_norm": "ricardo eli",
+    "Apellido_norm": "mendez osorio"
+  },
+  {
+    "Nombre": "José Francisco",
+    "Apellido": "Delgado Yépez",
+    "Cédula": "22023381",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "9/7/2026 10:48:55",
+    "Nombre_norm": "jose francisco",
+    "Apellido_norm": "delgado yepez"
+  },
+  {
+    "Nombre": "Pedro",
+    "Apellido": "Correa",
+    "Cédula": "25771095",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "9/7/2026 11:25:51",
+    "Nombre_norm": "pedro",
+    "Apellido_norm": "correa"
+  },
+  {
+    "Nombre": "Lizander",
+    "Apellido": "Tabata",
+    "Cédula": "32190908",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "9/7/2026 11:34:26",
+    "Nombre_norm": "lizander",
+    "Apellido_norm": "tabata"
+  },
+  {
+    "Nombre": "Rubén Erasmo",
+    "Apellido": "Torres Parra",
+    "Cédula": "11405173",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "IZET",
+    "Fecha de respuesta": "9/7/2026 12:25:52",
+    "Nombre_norm": "ruben erasmo",
+    "Apellido_norm": "torres parra"
+  },
+  {
+    "Nombre": "Ayrton Miguel",
+    "Apellido": "Abarca Sarmiento",
+    "Cédula": "23787290",
+    "Relación con la facultad": "Estudiante postgrado",
+    "Dependencia de adscripción": "ICTA",
+    "Fecha de respuesta": "9/7/2026 14:20:44",
+    "Nombre_norm": "ayrton miguel",
+    "Apellido_norm": "abarca sarmiento"
+  },
+  {
+    "Nombre": "Ryna",
+    "Apellido": "Valentino Garcia",
+    "Cédula": "11558672",
+    "Relación con la facultad": "Personal administrativo",
+    "Dependencia de adscripción": "Decanato/Coordinaciones",
+    "Fecha de respuesta": "9/7/2026 14:43:24",
+    "Nombre_norm": "ryna",
+    "Apellido_norm": "valentino garcia"
+  },
+  {
+    "Nombre": "Daniel",
+    "Apellido": "Morales Valentino",
+    "Cédula": "30030004",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "9/7/2026 14:54:10",
+    "Nombre_norm": "daniel",
+    "Apellido_norm": "morales valentino"
+  },
+  {
+    "Nombre": "Luis Enrique",
+    "Apellido": "Apollaro Rivas",
+    "Cédula": "32336704",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "9/7/2026 16:20:46",
+    "Nombre_norm": "luis enrique",
+    "Apellido_norm": "apollaro rivas"
+  },
+  {
+    "Nombre": "Flabio",
+    "Apellido": "Marcano Gordones",
+    "Cédula": "23946370",
+    "Relación con la facultad": "Personal obrero",
+    "Dependencia de adscripción": "Decanato/Coordinaciones",
+    "Fecha de respuesta": "9/7/2026 16:58:47",
+    "Nombre_norm": "flabio",
+    "Apellido_norm": "marcano gordones"
+  },
+  {
+    "Nombre": "Maria Gabriela",
+    "Apellido": "Pérez Caldera",
+    "Cédula": "31699822",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "10/7/2026 10:37:58",
+    "Nombre_norm": "maria gabriela",
+    "Apellido_norm": "perez caldera"
+  },
+  {
+    "Nombre": "Alberto Alejandro",
+    "Apellido": "Rondon Espejo",
+    "Cédula": "30062986",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "10/7/2026 15:08:07",
+    "Nombre_norm": "alberto alejandro",
+    "Apellido_norm": "rondon espejo"
   }
 ]
