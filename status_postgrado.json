@@ -1,0 +1,67 @@
+[
+    {
+        "Postgrado":"Biologia Celular",
+        "parcial":44.4444444444,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Botanica",
+        "parcial":47.619047619,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Ecologia",
+        "parcial":36.3636363636,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Zoologia",
+        "parcial":35.2941176471,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Ciencia y tecnologia",
+        "parcial":22.2222222222,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Fisica",
+        "parcial":33.3333333333,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Computacion",
+        "parcial":14.409221902,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Fisica medica",
+        "parcial":24.0,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Geoquimica",
+        "parcial":22.0779220779,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Instrumentacion",
+        "parcial":9.5238095238,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Matematica",
+        "parcial":13.0434782609,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Modelos Aleatorios",
+        "parcial":10.9589041096,
+        "total":100.0
+    },
+    {
+        "Postgrado":"Quimica",
+        "parcial":40.8163265306,
+        "total":100.0
+    }
+]

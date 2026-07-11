@@ -114,3 +114,143 @@ document.getElementById('searchForm').addEventListener('submit', async function(
         `;
     }
 });
+
+// VARIABLES GLOBALES PARA ALBERGAR LOS DATOS DE COBERTURA
+let dataCobertura = { pregrado: [], postgrado: [], personal: [] };
+let miGraficoStacked = null;
+let categoriaActual = 'pregrado';
+
+async function inicializarDashboard() {
+    try {
+        // Carga simultánea de los tres archivos JSON definidos
+        const [resPre, resPost, resPers] = await Promise.all([
+            fetch('./status_pregrado.json').then(r => r.ok ? r.json() : []),
+            fetch('./status_postgrado.json').then(r => r.ok ? r.json() : []),
+            fetch('./status_dependencias.json').then(r => r.ok ? r.json() : [])
+        ]);
+
+        dataCobertura.pregrado = resPre;
+        dataCobertura.postgrado = resPost;
+        dataCobertura.personal = resPers;
+
+        // Renderizar por defecto la primera categoría
+        renderizarMetricas('pregrado');
+
+    } catch (error) {
+        console.error("Error al cargar los JSON de control de estado:", error);
+    }
+}
+
+function renderizarMetricas(categoria) {
+    categoriaActual = categoria;
+    const registros = dataCobertura[categoria];
+    const tablaBody = document.getElementById('tablaCoberturaBody');
+    tablaBody.innerHTML = '';
+
+    // Configurar etiquetas de tabla y gráfico según la estructura de los JSON
+    let campoLlave = 'carrera';
+    let tituloGrafico = 'Estatus de Respuestas en Pregrado';
+    document.getElementById('thNombre').textContent = 'Carreras de Pregrado';
+
+    if (categoria === 'postgrado') {
+        campoLlave = 'Postgrado';
+        tituloGrafico = 'Estatus de Respuestas en Postgrado';
+        document.getElementById('thNombre').textContent = 'Programas de Postgrado';
+    } else if (categoria === 'personal') {
+        campoLlave = 'dependencia';
+        tituloGrafico = 'Estatus de Respuestas en Personal de Dependencias';
+        document.getElementById('thNombre').textContent = 'Dependencia / Escuela / Instituto';
+    }
+
+    document.getElementById('graficoTitulo').textContent = tituloGrafico;
+
+    // Arrays para recolectar la información del gráfico
+    let labels = [];
+    let datosRespondieron = [];
+    let datosFaltan = [];
+
+    registros.forEach(item => {
+        const nombreElemento = item[campoLlave] || "Desconocido";
+        const parcial = parseInt(item.parcial) || 0;
+        const total = parseInt(item.total) || 0;
+        const faltan = total - parcial >= 0 ? total - parcial : 0;
+
+        labels.push(nombreElemento);
+        datosRespondieron.push(parcial);
+        datosFaltan.push(faltan);
+
+        // Inyectar fila correspondiente en la tabla
+        const fila = document.createElement('tr');
+        fila.className = "hover:bg-slate-50 transition-colors";
+        fila.innerHTML = `
+            <td class="px-4 py-2.5 font-medium text-gray-700">${nombreElemento}</td>
+            <td class="px-4 py-2.5 text-center font-bold text-emerald-700 bg-emerald-50/20">${parcial}</td>
+            <td class="px-4 py-2.5 text-center font-medium text-rose-600 bg-rose-50/20">${faltan}</td>
+            <td class="px-4 py-2.5 text-center font-bold text-gray-800 bg-gray-50">${total}</td>
+        `;
+        tablaBody.appendChild(fila);
+    });
+
+    // RENDERIZAR O ACTUALIZAR GRÁFICO STACKED BARS
+    const ctx = document.getElementById('chartStackedBars').getContext('2d');
+    
+    // Si ya existía un gráfico previo, se destruye para evitar superposiciones visuales
+    if (miGraficoStacked) {
+        miGraficoStacked.destroy();
+    }
+
+    miGraficoStacked = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: labels,
+            datasets: [
+                {
+                    label: 'Ya respondieron',
+                    data: datosRespondieron,
+                    backgroundColor: '#10b981', // Verde esmeralda para respuestas exitosas
+                },
+                {
+                    label: 'Faltan por responder',
+                    data: datosFaltan,
+                    backgroundColor: '#f43f5e', // Rosa/Rojo suave para identificar brechas
+                }
+            ]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            scales: {
+                x: { 
+                    stacked: true, 
+                    ticks: { font: { size: 10 }, maxRotation: 45, minRotation: 0 } 
+                },
+                y: { 
+                    stacked: true, 
+                    beginAtZero: true 
+                }
+            },
+            plugins: {
+                legend: { position: 'bottom' }
+            }
+        }
+    });
+}
+
+// Controlador para cambiar de pestañas de manera interactiva
+function cambiarCategoria(categoria) {
+    // Resetear estilos de todos los botones
+    ['pregrado', 'postgrado', 'personal'].forEach(cat => {
+        const btn = document.getElementById(`btn-${cat}`);
+        btn.className = "px-4 py-2 font-medium text-gray-500 hover:text-gray-700 border-b-2 border-transparent whitespace-nowrap cursor-pointer";
+    });
+
+    // Resaltar botón activo
+    const btnActivo = document.getElementById(`btn-${categoria}`);
+    btnActivo.className = "px-4 py-2 font-bold border-b-2 border-blue-900 text-blue-900 whitespace-nowrap cursor-pointer";
+
+    // Re-dibujar el panel
+    renderizarMetricas(categoria);
+}
+
+// Ejecutar automáticamente al cargar la página
+document.addEventListener('DOMContentLoaded', inicializarDashboard);

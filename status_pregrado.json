@@ -1,0 +1,32 @@
+[
+    {
+        "carrera":"LICENCIATURA EN BIOLOGIA",
+        "parcial":64.2335766423,
+        "total":100.0
+    },
+    {
+        "carrera":"LICENCIATURA EN COMPUTACION",
+        "parcial":39.6,
+        "total":100.0
+    },
+    {
+        "carrera":"LICENCIATURA EN FISICA",
+        "parcial":62.5498007968,
+        "total":100.0
+    },
+    {
+        "carrera":"LICENCIATURA EN GEOQUIMICA",
+        "parcial":41.1764705882,
+        "total":100.0
+    },
+    {
+        "carrera":"LICENCIATURA EN MATEMATICA",
+        "parcial":43.956043956,
+        "total":100.0
+    },
+    {
+        "carrera":"LICENCIATURA EN QUIMICA",
+        "parcial":52.7777777778,
+        "total":100.0
+    }
+]
