@@ -21798,5 +21798,55 @@
     "Fecha de respuesta": "12/7/2026 18:15:19",
     "Nombre_norm": "marcos francisco",
     "Apellido_norm": "rosa-brussin"
+  },
+  {
+    "Nombre": "Gideon",
+    "Apellido": "Duran Capote",
+    "Cédula": "25872187",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "13/7/2026 14:08:10",
+    "Nombre_norm": "gideon",
+    "Apellido_norm": "duran capote"
+  },
+  {
+    "Nombre": "Yeiker",
+    "Apellido": "Azuaje Coronado",
+    "Cédula": "31490682",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "13/7/2026 15:36:45",
+    "Nombre_norm": "yeiker",
+    "Apellido_norm": "azuaje coronado"
+  },
+  {
+    "Nombre": "Alex Daniel",
+    "Apellido": "Guevara Herrera",
+    "Cédula": "31484277",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Matemática",
+    "Fecha de respuesta": "13/7/2026 21:47:59",
+    "Nombre_norm": "alex daniel",
+    "Apellido_norm": "guevara herrera"
+  },
+  {
+    "Nombre": "Aixa",
+    "Apellido": "Abdelaziz Yaraure",
+    "Cédula": "17867853",
+    "Relación con la facultad": "Egresada",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "14/7/2026 10:38:42",
+    "Nombre_norm": "aixa",
+    "Apellido_norm": "abdelaziz yaraure"
+  },
+  {
+    "Nombre": "laura marina",
+    "Apellido": "garces liendo",
+    "Cédula": "14388010",
+    "Relación con la facultad": "Personal administrativo",
+    "Dependencia de adscripción": "Decanato/Coordinaciones",
+    "Fecha de respuesta": "14/7/2026 12:15:28",
+    "Nombre_norm": "laura marina",
+    "Apellido_norm": "garces liendo"
   }
 ]
