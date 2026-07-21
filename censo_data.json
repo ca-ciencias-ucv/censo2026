@@ -21848,5 +21848,65 @@
     "Fecha de respuesta": "14/7/2026 12:15:28",
     "Nombre_norm": "laura marina",
     "Apellido_norm": "garces liendo"
+  },
+  {
+    "Nombre": "Milagros",
+    "Apellido": "Altuve",
+    "Cédula": "17793047",
+    "Relación con la facultad": "Estudiante postgrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "14/7/2026 15:58:12",
+    "Nombre_norm": "milagros",
+    "Apellido_norm": "altuve"
+  },
+  {
+    "Nombre": "David Sebastian",
+    "Apellido": "Escobar Uribe",
+    "Cédula": "31926927",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "15/7/2026 9:36:11",
+    "Nombre_norm": "david sebastian",
+    "Apellido_norm": "escobar uribe"
+  },
+  {
+    "Nombre": "Roberto Jesús",
+    "Apellido": "García Pérez",
+    "Cédula": "6337936",
+    "Relación con la facultad": "Personal obrero",
+    "Dependencia de adscripción": "Decanato/Coordinaciones",
+    "Fecha de respuesta": "15/7/2026 9:52:23",
+    "Nombre_norm": "roberto jesus",
+    "Apellido_norm": "garcia perez"
+  },
+  {
+    "Nombre": "Jesús Andrés",
+    "Apellido": "Márquez Lucena",
+    "Cédula": "31793060",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Física",
+    "Fecha de respuesta": "15/7/2026 14:38:24",
+    "Nombre_norm": "jesus andres",
+    "Apellido_norm": "marquez lucena"
+  },
+  {
+    "Nombre": "Katherin",
+    "Apellido": "mozo Fernández",
+    "Cédula": "25872491",
+    "Relación con la facultad": "Estudiante pregrado",
+    "Dependencia de adscripción": "Escuela de Computación",
+    "Fecha de respuesta": "16/7/2026 20:35:13",
+    "Nombre_norm": "katherin",
+    "Apellido_norm": "mozo fernandez"
+  },
+  {
+    "Nombre": "María del Pilar",
+    "Apellido": "Rodríguez Mesa",
+    "Cédula": "2110704",
+    "Relación con la facultad": "Docente",
+    "Dependencia de adscripción": "Escuela de Biología",
+    "Fecha de respuesta": "17/7/2026 16:34:20",
+    "Nombre_norm": "maria del pilar",
+    "Apellido_norm": "rodriguez mesa"
   }
 ]
